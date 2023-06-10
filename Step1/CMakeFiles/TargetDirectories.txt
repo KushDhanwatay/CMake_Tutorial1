@@ -1,0 +1,3 @@
+/home/kush/Desktop/Projects/CMake_Tutorial1/Step1/CMakeFiles/Tutorial.dir
+/home/kush/Desktop/Projects/CMake_Tutorial1/Step1/CMakeFiles/edit_cache.dir
+/home/kush/Desktop/Projects/CMake_Tutorial1/Step1/CMakeFiles/rebuild_cache.dir
