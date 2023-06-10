@@ -1,6 +1,6 @@
 # TODO 14: Remove mysqrt.cxx from the list of sources
 
-# TODO 1: Add a library called MathFunctions with sources MathFunctions.cxx
+add_library(MathFunctions mysqrt.cxx)# TODO 1: Add a library called MathFunctions with sources MathFunctions.cxx
 # and mysqrt.cxx
 # Hint: You will need the add_library command
 
