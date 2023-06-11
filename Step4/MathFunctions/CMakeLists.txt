@@ -24,3 +24,6 @@ endif()
 
 # link our compiler flags interface library
 target_link_libraries(MathFunctions PUBLIC tutorial_compiler_flags)
+
+install(TARGETS MathFunctions DESTINATION lib)
+install(FILES MathFunctions.h DESTINATION include)
